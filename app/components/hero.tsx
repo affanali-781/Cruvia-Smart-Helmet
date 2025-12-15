@@ -9,7 +9,7 @@ const HeroSection = () => {
 			<div className="w-1/2">
 				<Image src={helmet} alt="helmet" />
 			</div>
-			<div className="w-1/2 flex flex-col items-start">
+			<div className="w-1/2 flex flex-col items-start mx-2 sm:mx-0">
 				<h1 className="text-2xl md:text-3xl lg:text-4xl font-bold font-[inter] text-amber-400">
 					CRUVIA SMART HELMET
 				</h1>
